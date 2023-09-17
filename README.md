@@ -1,1 +1,1 @@
-# rock-paper-scissors
+This is a basic rock paper scissors game to teach me more about functions

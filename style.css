@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+}
+
+.options {
+    display:flex;
+    justify-content: center;
+}
+
+img {
+    height:400px;
+    width:400px;
+}
+
+.score {
+    text-align: center;
+}

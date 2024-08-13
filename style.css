@@ -12,6 +12,9 @@ img {
     width:400px;
 }
 
-.score {
+.score,
+.result {
     text-align: center;
 }
+
+
